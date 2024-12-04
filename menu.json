@@ -2,7 +2,7 @@
     "menu": [
       {
         "name": "Formulario con Aceeso a Base de datos",
-        "link": "Acceso-a-BD-main/index.html",
+        "link": "Acceso-a-BD-main/Index.html",
         "icon": "home"
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "name": "102 Etiquetas HTML",
-        "link": "102_Etiquetas/index.html",
+        "link": "102_Etiquetas/Index.html",
         "icon": "user"
       }
       
